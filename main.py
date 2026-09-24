@@ -1,1 +1,1 @@
-print("Versi Fitur A")
+print("Versi Fitur A dan B setelah resolved")
